@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mrexodia",
+  "version": "1.0.0",
+  "description": "My personal Claude Code marketplace.",
+  "owner": {
+    "name": "Duncan Ogilvie",
+    "email": "claude-marketplace@mrexodia.re"
+  },
+  "plugins": [
+    {
+      "name": "ida-pro-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mrexodia/ida-pro-mcp.git"
+      }
+    }
+  ]
+}
