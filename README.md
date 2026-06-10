@@ -8,6 +8,12 @@ Installation:
 claude plugin marketplace add mrexodia/claude-marketplace
 ```
 
+Update marketplace:
+
+```bash
+claude plugin marketplace update mrexodia
+```
+
 ## [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
 
 AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
