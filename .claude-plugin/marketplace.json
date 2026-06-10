@@ -21,7 +21,7 @@
       "description": "Prevents your Mac from sleeping while Claude Code is actively working.",
       "source": {
         "source": "url",
-        "url": "https://github.com/mrexodia/mac-caffeinate.git"
+        "url": "https://github.com/mrexodia/claude-clamshell.git"
       }
     }
   ]
