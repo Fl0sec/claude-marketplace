@@ -10,9 +10,18 @@
   "plugins": [
     {
       "name": "ida-pro-mcp",
+      "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "source": {
         "source": "url",
         "url": "https://github.com/mrexodia/ida-pro-mcp.git"
+      }
+    },
+    {
+      "name": "claude-clamshell",
+      "description": "Prevents your Mac from sleeping while Claude Code is actively working.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mrexodia/mac-caffeinate.git"
       }
     }
   ]
