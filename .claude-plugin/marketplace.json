@@ -1,11 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "mrexodia",
-  "version": "1.0.0",
-  "description": "My personal Claude Code marketplace.",
+  "name": "nttilt",
+  "version": "1.0.1",
+  "description": "NtTilt Claude Code marketplace.",
   "owner": {
-    "name": "Duncan Ogilvie",
-    "email": "claude-marketplace@mrexodia.re"
+    "name": "NtTilt"
   },
   "plugins": [
     {
@@ -13,15 +12,7 @@
       "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "source": {
         "source": "url",
-        "url": "https://github.com/mrexodia/ida-pro-mcp.git"
-      }
-    },
-    {
-      "name": "claude-clamshell",
-      "description": "Prevents your Mac from sleeping while Claude Code is actively working.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/mrexodia/claude-clamshell.git"
+        "url": "https://github.com/NtTilt/ida-pro-mcp.git"
       }
     }
   ]
