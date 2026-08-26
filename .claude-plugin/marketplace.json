@@ -1,10 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "nttilt",
+  "name": "fl0sec",
   "version": "1.0.1",
-  "description": "NtTilt Claude Code marketplace.",
+  "description": "fl0sec Claude Code marketplace.",
   "owner": {
-    "name": "NtTilt"
+    "name": "fl0sec"
   },
   "plugins": [
     {
@@ -12,7 +12,7 @@
       "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "source": {
         "source": "url",
-        "url": "https://github.com/NtTilt/ida-pro-mcp.git"
+        "url": "https://github.com/Fl0sec/ida-pro-mcp.git"
       }
     }
   ]
